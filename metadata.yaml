@@ -1,5 +1,8 @@
 _repo: The-Poetry-of-South-Africa_52928
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 52928-h/images/cover.jpg
 creator:
   editor:
     agent_name: Wilmot, Alexander
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '43642'
     url: http://www.gutenberg.org/2009/agents/43642
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52928#The-Poetry-of-South-Africa
 gutenberg_issued: '2016-08-29'
 gutenberg_type: Text
 identifiers:
